@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <link href="https://fonts.googleapis.com/css?family=Montserrat|Roboto" rel="stylesheet">
+  <link rel="stylesheet" href="main.css">
+   
+
+    
+     
+          <link rel="stylesheet" href="style.css">
+
+    </head>
+   <body>
+       
+   
+<div id="clap">
+       </div>
+<div id="navbar">
+    <ul class="nav">
+   <li><a href="https://sharon-carpet.codio.io/">pixal art</a></li>
+        <li><a href="https://goblin-taboo.codio.io/">light art</a></li>
+        <li><a href="https://galileo-austria.codio.io/">butter art</a></li>
+        <li><a href="https://balloon-boris.codio.io/">home</a></li>
+         <li><a href="  https://tower-spider.codio.io/">pics</a></li>
+        
+    </ul>
+        </div>
+     
+<a href="https://digital-photography-school.com/light-painting-part-one-the-photography/">how to do</a>
+<a href="https://lightpaintingbrushes.com/pages/light-painting-tutorials">what you need</a>
+<a href="http://lightpaintingphotography.com/light-painting-artist/">where to see it</a>
+    <div class="box"></div>
+    <img class="resize" src="https://www.pinkpetro.com/wp-content/uploads/2018/12/one_goal.png">
+    <h1>LIGHT ART</h1>
+    <h2>(light art performance photography is a term that describe photographic techniques of moving a light source while taking a long exposure photograph, either to illuminate a subject or space, or to shine light at the camera to 'draw', or by moving the camera itself during exposure of light sources. Practised since the 1880s, the technique is used for both scientific and artistic purposes, as well as in commercial photography).(wikipedia light art page) this allows for artists to make very unique drawings that look stuning. To learn more about light art click on one of the links above or if you want to see some amazing pictures of light art click on the pictures tab in the nav bar. </h2>
+    <h3> this is a minigame you play by clicking hovering over the box until it reaches the goal </h3>
+  </body>
+   
+</html>
+    <!--makes links and list also pics and words -->
