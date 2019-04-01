@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html>
+     <head>
+         <script type="text/javascript" src="scripts.js"></script>
+<link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+<div id="navbar">
+    <ul class="nav">
+        <li><a href="https://sharon-carpet.codio.io/">pixal art</a></li>
+        <li><a href="https://goblin-taboo.codio.io/">light art</a></li>
+        <li><a href="https://galileo-austria.codio.io/">butter art</a></li>
+        <li><a href="https://balloon-boris.codio.io/">home</a></li>
+         <li><a href="  https://tower-spider.codio.io/">pics</a></li>
+    </ul>
+        </div>
+
+
+<div class="grid-container">
+
+ <div class="grid-item"></div>
+ <div class="grid-item"></div>
+  <div class="grid-item"></div>
+ <div class="grid-item"></div>
+ <div class="grid-item">
+    <a onclick="changecolor('black')" id="black">#000000</a></div>
+<div class="grid-item">
+    <a onclick="changecolor('black')" id="black">#000000</a></div>
+  <div class="grid-item">
+    <a onclick="changecolor('black')" id="black">#000000</a></div>
+ <div class="grid-item">
+    <a onclick="changecolor('black')" id="black">#000000</a></div>
+ <div class="grid-item">
+    <a onclick="changecolor('black')" id="black">#000000</a></div>  
+  <div class="grid-item">
+    <a onclick="changecolor('black')" id="black">#000000</a></div>
+  <div class="grid-item"></div>
+      <div class="grid-item">
+    <a onclick="changecolor('black')" id="black">#000000</a></div>
+ <div class="grid-item">
+    <a onclick="changecolor('black')" id="black">#000000</a></div>
+  <div class="grid-item">
+    <a onclick="changecolor('black')" id="black">#000000</a></div>
+ <div class="grid-item">
+    <a onclick="changecolor('black')" id="black">#000000</a></div>
+ <div class="grid-item">
+    <a onclick="changecolor('black')" id="black">#000000</a></div>
+<div class="grid-item">
+    <a onclick="changecolor('black')" id="black">#000000</a></div>
+  <div class="grid-item">
+    <a onclick="changecolor('black')" id="black">#000000</a></div>
+ <div class="grid-item">
+    <a onclick="changecolor('black')" id="black">#000000</a></div>
+ <div class="grid-item">
+    <a onclick="changecolor('black')" id="black">#000000</a></div>  
+  <div class="grid-item">
+    <a onclick="changecolor('black')" id="black">#000000</a></div>
+ <div class="grid-item"></div>
+    <div class="grid-item">
+    <a onclick="changecolor('black')" id="black">#000000</a></div>
+ <div class="grid-item">
+    <a onclick="changecolor('black')" id="black">#000000</a></div>
+ <div class="grid-item">
+    <a onclick="changecolor('black')" id="black">#000000</a></div>
+ <div class="grid-item">
+    <a onclick="changecolor('black')" id="black">#000000</a></div>
+ <div class="grid-item">
+    <a onclick="changecolor('black')" id="black">#000000</a></div>
+ <div class="grid-item">
+    <a onclick="changecolor('black')" id="black">#000000</a></div>
+ <div class="grid-item">
+    <a onclick="changecolor('black')" id="black">#000000</a></div>
+ <div class="grid-item">
+    <a onclick="changecolor('black')" id="black">#000000</a></div>
+ <div class="grid-item">
+    <a onclick="changecolor('black')" id="black">#000000</a></div>  
+ <div class="grid-item">
+    <a onclick="changecolor('black')" id="black">#000000</a></div>
+ <div class="grid-item">
+    <a onclick="changecolor('black')" id="black">#000000</a></div>
+ <div class="grid-item">
+    <a onclick="changecolor('black')" id="black">#000000</a></div>
+ <div class="grid-item">
+    <a onclick="changecolor('black')" id="black">#000000</a></div>
+ <div class="grid-item">
+    <a onclick="changecolor('black')" id="black">#000000</a></div>
+ <div class="grid-item">
+    <a onclick="changecolor('black')" id="black">#000000</a></div>
+<div class="grid-item">
+    <a onclick="changecolor('black')" id="black">#000000</a></div>
+ <div class="grid-item">
+    <a onclick="changecolor('black')" id="black">#000000</a></div>
+ <div class="grid-item">
+    <a onclick="changecolor('black')" id="black">#000000</a></div>
+ <div class="grid-item">
+    <a onclick="changecolor('black')" id="black">#000000</a></div>  
+ <div class="grid-item">
+    <a onclick="changecolor('black')" id="black">#000000</a></div>
+ <div class="grid-item">
+    <a onclick="changecolor('black')" id="black">#000000</a></div>
+ <div class="grid-item">
+    <a onclick="changecolor('black')" id="black">#000000</a></div>
+ <div class="grid-item">
+    <a onclick="changecolor('black')" id="black">#000000</a></div>
+ <div class="grid-item">
+    <a onclick="changecolor('black')" id="black">#000000</a></div>
+ <div class="grid-item">
+    <a onclick="changecolor('black')" id="black">#000000</a></div>
+ <div class="grid-item">
+    <a onclick="changecolor('black')" id="black">#000000</a></div>
+ <div class="grid-item">
+    <a onclick="changecolor('black')" id="black">#000000</a></div>
+ <div class="grid-item">
+    <a onclick="changecolor('black')" id="black">#000000</a></div>
+ <div class="grid-item">
+    <a onclick="changecolor('black')" id="black">#000000</a></div>  
+ <div class="grid-item">
+    <a onclick="changecolor('black')" id="black">#000000</a></div>
+ <div class="grid-item">
+    <a onclick="changecolor('black')" id="black">#000000</a></div>
+ <div class="grid-item">
+    <a onclick="changecolor('black')" id="black">#000000</a></div>
+  <div class="grid-item">
+    <a onclick="changecolor('black')" id="black">#000000</a></div>
+ <div class="grid-item">
+    <a onclick="changecolor('black')" id="black">#000000</a></div>
+ <div class="grid-item">
+    <a onclick="changecolor('black')" id="black">#000000</a></div>
+ <div class="grid-item">
+    <a onclick="changecolor('black')" id="black">#000000</a></div>
+ <div class="grid-item">
+    <a onclick="changecolor('black')" id="black">#000000</a></div>
+ <div class="grid-item">
+    <a onclick="changecolor('black')" id="black">#000000</a></div>
+ <div class="grid-item">
+    <a onclick="changecolor('black')" id="black">#000000</a></div>  
+ <div class="grid-item">
+    <a onclick="changecolor('black')" id="black">#000000</a></div>
+ <div class="grid-item">
+    <a onclick="changecolor('black')" id="black">#000000</a></div>
+ <div class="grid-item">
+    <a onclick="changecolor('black')" id="black">#000000</a></div>
+  <div class="grid-item">
+    <a onclick="changecolor('black')" id="black">#000000</a></div>
+ <div class="grid-item">
+    <a onclick="changecolor('black')" id="black">#000000</a></div>
+ <div class="grid-item">
+    <a onclick="changecolor('black')" id="black">#000000</a></div>
+ <div class="grid-item">
+    <a onclick="changecolor('black')" id="black">#000000</a></div>
+ <div class="grid-item">
+    <a onclick="changecolor('black')" id="black">#000000</a></div>
+ <div class="grid-item">
+    <a onclick="changecolor('black')" id="black">#000000</a></div>
+ <div class="grid-item">
+    <a onclick="changecolor('black')" id="black">#000000</a></div>  
+ <div class="grid-item">
+    <a onclick="changecolor('black')" id="black">#000000</a></div>
+ <div class="grid-item"></div>
+ <div class="grid-item"></div>
+  <div class="grid-item"></div>
+ <div class="grid-item"></div><div class="grid-item"></div>
+ <div class="grid-item"></div>
+  <div class="grid-item"></div>
+ <div class="grid-item"></div><div class="grid-item"></div>
+ <div class="grid-item"></div>
+  <div class="grid-item"></div>
+ <div class="grid-item"></div>
+    <div class="grid-item"></div>
+ <div class="grid-item"></div>
+  <div class="grid-item"></div>
+ <div class="grid-item"></div>
+     <div class="grid-item"></div>
+  <div class="grid-item"></div>
+ <div class="grid-item"></div>
+    <div class="grid-item"></div>
+ <div class="grid-item"></div>
+  <div class="grid-item"></div>
+ <div class="grid-item"></div>
+     <div class="grid-item"></div>
+  <div class="grid-item"></div>
+ <div class="grid-item"></div>
+    <div class="grid-item"></div>
+ <div class="grid-item"></div>
+  <div class="grid-item"></div>
+ <div class="grid-item"></div>
+     <div class="grid-item"></div>
+  <div class="grid-item"></div>
+ <div class="grid-item"></div>
+    <div class="grid-item"></div>
+ <div class="grid-item"></div>
+  <div class="grid-item"></div>
+ <div class="grid-item"></div>
+     <div class="grid-item"></div>
+  <div class="grid-item"></div>
+ <div class="grid-item"></div>
+    <div class="grid-item"></div>
+ <div class="grid-item"></div>
+  <div class="grid-item"></div>
+ <div class="grid-item"></div>
+     <div class="grid-item"></div>
+ <div class="grid-item"></div>
+    <div class="grid-item"></div>
+ <div class="grid-item"></div>
+  <div class="grid-item"></div>
+  </div>
+        <script type="text/javascript">
+       
+        </script>
+        <h1>Pixel art</h1>
+        <h4> Pixel art is a form of digital art, created through the use of software, where images are edited on the pixel level. The aesthetic for this kind of graphics comes from 8-bit and 16-bit computers and video game consoles, in addition to other limited systems such as graphing calculators(wikipedia pixel art). Some famous pixel art cretion include pacman,mario,and nyan cat.(To learn more click on 1 of the links below) </h4>
+        <h5> Hello this is a game you play by trying to match the picture on the left click a red squrae to turn it black if you mess up refresh the page</h5>
+        <img class="resize" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAADICAMAAACahl6sAAAATlBMVEX///8AAAAXFxe3t7fHx8ezs7NnZ2dzc3MnJycHBwdjY2NbW1uDg4Onp6d7e3uHh4fb29u9vb3MzMyOjo7k5OQ8PDzr6+ukpKQODg4hISFJTddnAAABYklEQVR4nO3cyVLCUBBAUWRQooKEmf//UTe8xyKpVKIZWjxnSRrou6IoXpjNAAAAAAAAAAAAgP9tv6w4Ns0fq/P7sXZtNH+p+Gqa/6zOz8fatZEQIQMRImQgQmKEbN6SorrYKV88p/lzfuhUnS/yxc3oIe/Vders0vyu3fyrECFChAgR8gdCynVybbfYLc3f2s1f8xssBw1ZtVunDwshQoQIESJEiBAhQoQIESJEiBAhQoQIESJEiBAhQoQIGS2knCc1p7T6UOQ3KAcNeWj5O3tXYQ8MCBEiRIgQIbUur0kPn/FFfrHL6CEPNWfjuwp7yF/IpIQIGYgQIQMpF3eHrvsf0jPH+n7e0rJryLCnxn9OSDRCohESzfOEFEnz/nksasjDtqljO/V2HQiJRkg0QqIREs3mI8n3Jl/zQ+P/Y0gf8k3T66k3+SUh0QiJRkg0QqJZbe5WU28CAAAAAAAAADyfbx6mKw7wpkIHAAAAAElFTkSuQmCC">
+    <a href="https://www.pixelartcss.com/">where to do it</a>
+<a href="http://themastersofpixelart.com/">who does it</a>
+<a href="https://medium.com/pixel-grimoire/how-to-start-making-pixel-art-2d1e31a5ceab">whats needed</a>
+    </body>
+</html>
+
+ <!--makes links and list also pics and grids -->
